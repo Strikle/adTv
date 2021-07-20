@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252368309033",
+    "project_id": "adtv-76493",
+    "storage_bucket": "adtv-76493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252368309033:android:679eb1d98d4efc58a28538",
+        "android_client_info": {
+          "package_name": "com.example.ad_tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252368309033-73ju4tgac2vd8umhvgfaj400r5i222up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClktLMtCA2v9NoStV1raN6A40wGszRRu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252368309033-73ju4tgac2vd8umhvgfaj400r5i222up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
